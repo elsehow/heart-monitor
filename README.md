@@ -20,3 +20,7 @@ to run,
 ## python
 
 this script uses pyserial to read the data over the serial port. good for exploration/tinkering
+
+## license
+
+BSD
