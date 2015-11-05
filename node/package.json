@@ -1,0 +1,16 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node serial-logger.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kefir": "^3.1.0",
+    "request-json": "^0.5.3",
+    "serialport": "^2.0.2"
+  }
+}
